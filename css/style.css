@@ -1,0 +1,45 @@
+.body-stngs{
+    background-image: url(../img/bck.jpg);
+    text-align:center;
+}
+
+h1{
+    color:orange;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 65px;
+}
+h2{
+    color:orange;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 65px;
+}
+h4{
+    color:orange;
+    text-decoration: none;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.prgrf{
+    color:orange;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 290px;
+    margin-right: 290px;
+    background-color: black;
+}
+.link{
+    color:orange;
+    text-decoration: none;
+    font-size: 36px;
+    font-family:'Courier New', Courier, monospace;
+}
+.txt-stngs{
+    color:orange;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+.gif{
+    height: 200px;
+    width: 262px;
+    margin-right: 25px;
+}
