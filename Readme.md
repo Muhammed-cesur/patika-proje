@@ -1,2 +1,2 @@
 # Patika dev css site tasarımı
-** Oyun ve Kitap hakkında site
+ Oyun ve Kitap hakkında site
